@@ -5,4 +5,5 @@ When this figura avatar is equipped, it will use `init.lua` to compile `KattWayp
 
 
 Uses [FiguraConfigManager](https://github.com/KitCat962/FiguraConfigManager) to make the script not use any avatar space.
+
 This repo uses [GrandpaScout's FiguraVSDocs](https://github.com/GrandpaScout/FiguraRewriteVSDocs). Run `install.bat` and select Latest for figura doumentation.
