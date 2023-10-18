@@ -1,0 +1,1 @@
+return load(config:setName("KattWaypoints"):load("main"))()
